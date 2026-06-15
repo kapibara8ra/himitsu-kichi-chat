@@ -33,8 +33,8 @@ PowerShell：
   python himitu_kichi.py
 
 ## 実行例
-
-
+![起動画面](sample1-1.png)
+![会話画面](sample1-2.png)
 
 ## 制作目的
 Pythonの勉強を兼ねて制作した会話アプリです。
